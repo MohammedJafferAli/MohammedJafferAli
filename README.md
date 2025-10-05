@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed JafferAli
 
-🎯 **Senior Quality Assurance Engineer** with over **6 years of experience** in both manual and automation testing.  
-📍 Based in India | 📧 jaffercharliebe@gmail.com 
+🎯 **Senior Quality Assurance Engineer** with over **6 years of experience** in automation testing as well as in Manual
+📍 Based in India | 📧 jaffercharliebe@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammedjafferali) | [GitHub](https://github.com/MohammedJafferAli)
 
 ---
@@ -16,11 +16,11 @@ I hold an **ISTQB Certified Tester Foundation Level** certification and have han
 
 ## 🛠️ Skills & Technologies
 
-- **Testing Tools**: Manual Testing, Selenium (Automation), Postman (API Testing), Charles Proxy  
+- **Testing Tools**: Playwright, Selenium (Automation), Postman (API Testing), Charles Proxy  
 - **Mobile Testing**: Perfecto, Headspin, Android Emulator, iOS Simulator , Browserstack 
 - **Accessibility Testing**: NVDA, VoiceOver, TalkBack  
 - **Test Management**: Jira (Xray, Zephyr), HP-ALM, Confluence  
-- **Languages**: Java, SQL , JavaScript 
+- **Languages**: Java, SQL , JavaScript/Typescript
 - **Environments**: Eclipse, Android Studio , Visual Studio
 - **Continuous Integration**: Git, GitLab, Github, Jenkins
 - **Operating Systems**: Windows, macOS  
