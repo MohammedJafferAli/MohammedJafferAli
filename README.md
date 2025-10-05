@@ -31,7 +31,7 @@ I hold an **ISTQB Certified Tester Foundation Level** certification and have han
 
 - ✅ ISTQB Certified Tester Foundation Level  
 - ✅ API Testing using Postman – *Udemy*
-- ✅ [API Testing using Postman](https://www.udemy.com/certificate/UC-19f9d27f-49b5-407d-b725-1a1253a61dac/) – *Udemy*
+- ✅ [Playwright Automation](https://www.udemy.com/certificate/UC-19f9d27f-49b5-407d-b725-1a1253a61dac/) – *Udemy*
 - ✅ [GitHub Actions](https://www.udemy.com/certificate/UC-68781297-2781-4a6f-b3f9-b7a074a621db/) – *Udemy*
   
 ---
